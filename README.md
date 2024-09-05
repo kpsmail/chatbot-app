@@ -27,24 +27,24 @@ models.
 
 <tr>
 
-<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/1.PNG"  /></center></td>
-<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/2.PNG"   /></center></td>
-<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/3.PNG"   /></center></td>
+<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/c_1.png"  /></center></td>
+<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/c_2.png"   /></center></td>
+<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/c_3.png"   /></center></td>
 
 </tr>
 
 <tr>
 
-<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/4.PNG"  /></center></td>
-<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/5.PNG" /></center></td>
-<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/6.PNG"  /></center></td>
+<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/c_4.png"  /></center></td>
+<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/c_5.png" /></center></td>
+<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/c_6.png"  /></center></td>
 
 </tr>
 <tr>
 
-<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/7.PNG" /></center></td>
-<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/8.PNG"   /></center></td>
-<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/9.PNG"  /></center></td>
+<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/c_7.png" /></center></td>
+<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/c_8.png"   /></center></td>
+<td><center><img src="https://github.com/ChatBot-All/chatbot-app/blob/README/art/c_9.png"  /></center></td>
 
 </tr>
 </table>
