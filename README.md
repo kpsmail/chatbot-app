@@ -72,4 +72,4 @@ models.
 
 ## Warning
 
-Please do not download from other channels to prevent key theft.
+请勿从其他渠道下载，防止 API Key 被盗
